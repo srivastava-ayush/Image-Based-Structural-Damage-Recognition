@@ -1,5 +1,7 @@
 # Image-Based-Structural-Damage-Recognition
 
-basic_cnn --> basic model
+This repository contains the code for damage type classification using transfer learning. Dataset used is from this [competition](https://apps.peer.berkeley.edu/phichallenge/detection-tasks).
 
-vgg16_orig --> vgg 16 fine tune on original data
+basic_cnn --> Custom CNN model trained on original data 
+
+vgg16_orig --> vgg 16 fine tuned on original data
